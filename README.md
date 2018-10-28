@@ -9,14 +9,14 @@ by embedding a unique code for each user in the video so that
 the pirate of a video can be tracked by identifying the code from
 the pirated video.
 
-### Prerequisites
+### Pre-requisites
 ```
 Python3
 OpenCV
 ```
-### Exection commands
+### Execution commands
 ```
-$ python embed_vid.py
+$ python embed_vid.py 
 $ python compile_vid.py
 $ python Detect_piracy.py
 ```
