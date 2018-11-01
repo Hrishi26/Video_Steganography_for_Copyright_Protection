@@ -9,8 +9,11 @@ by embedding a unique code for each user in the video so that
 the pirate of a video can be tracked by identifying the code from
 the pirated video.
 
+
 ### System Design
-![Block Diagram](/Video_Steganography_for_Copyright_Protection/Data/index.png)
+<p align="center">
+  <img src="/Data/index.png" width="500" title="hover text">
+</p>
 
 ### Pre-requisites
 ```
