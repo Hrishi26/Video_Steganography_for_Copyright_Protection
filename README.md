@@ -9,6 +9,9 @@ by embedding a unique code for each user in the video so that
 the pirate of a video can be tracked by identifying the code from
 the pirated video.
 
+### System Design
+![Block Diagram](Hrishi26.github.com/Video_Steganography_for_Copyright_Protection/Data/index.png)
+
 ### Pre-requisites
 ```
 Python3
